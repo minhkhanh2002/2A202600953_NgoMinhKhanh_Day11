@@ -1,7 +1,7 @@
 # Bài tập 11 — Báo cáo cá nhân
 
 **Pipeline Phòng thủ Đa lớp cho Trợ lý AI của VinBank**
-**Tác giả:** Ngô Minh Khánh · **Framework:** Pure Python + `google-genai` (Gemini)
+**Họ và tên:** Ngô Minh Khánh - 2A202600953 · **Framework:** Pure Python + `google-genai` (Gemini)
 
 Pipeline nối sáu lớp độc lập:
 **(1) Rate Limiter → (2) Input Guardrails → (3) LLM → (4) Output Guardrails →
